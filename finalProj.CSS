@@ -1,0 +1,34 @@
+body{background-color: black; font-family:Verdana, Arial, sans-serif; color: white;}
+#allPage{vertical-align: center; text-align: center; width: 80%; margin:auto; background-image: url('res/background_grad.jpg'); background-size: 400%; background-repeat: repeat-x; color: white; }
+#tableHeader{text-decoration:underline; padding-bottom: 10px;}
+td{padding-right: 3em; padding-left: 2em; text-align: center; width: 80%;}
+footer{height: 0%;padding-top: 30px; bottom: 0px; text-align: left; position: sticky;}
+#imageBorder{border-radius: 50px; border: 10px solid green; width:250px; height: 150px;}
+.linkSeperator{padding-right: 2em;}
+a{color: red;}
+#pageBanner{border-radius: 60px; border: 8px; height:250px; width:60%}
+
+#contactPage{padding-left: 3em;vertical-align: center; text-align: left; width: 80%; margin:auto; background-image: url('res/background_grad.jpg'); background-size: 200%; background-repeat: repeat-x; color: white; }
+iframe{border-radius: 60px; border: 8px; width:600px; height:450px;}
+.infoIndent{padding-left: 4em}
+
+#aboutPage{vertical-align: center; text-align: left; width: 80%; margin:auto; background-image: url('res/background_grad.jpg'); background-size: 200%; background-repeat: repeat-x; color: white; }
+#topicBorder{border-radius: 60px; border: 8px solid green; padding-left: 1em; padding-bottom: 1.5em;}
+
+#prodImage{width:300px; height: 200px; border-radius: 50px; border: 10px solid green;}
+#prodText{position: relative; color: white; top: 70%; background-color: green; border-radius: 30px; border: 5px solid green; border-color:black; width: 30%; text-align: center; margin-left:auto; margin-right: auto;}
+#imgTagged{margin: 3%; position: static; transition: rotate: 4s; text-align: center; vertical-align:center; margin-left: auto; margin-right: auto;}
+#imgTagged:hover{ rotate: 4deg;}
+
+#productPicture{width:180px; height: 200px; border-radius: 50px; border: 10px solid green;}
+#productText{position: sticky; color: white; top: 70%; background-color: green; border-radius: 30px; border: 5px solid green; border-color:black; width: 20%; vertical-align:center ;text-align: center; margin-left:auto; margin-right: auto;}
+
+#consoleText{position: sticky; color: white; top: 70%; background-color: green; border-radius: 30px; border: 5px solid green; border-color:black; width: 30%; vertical-align:center ;text-align: center; margin-left:auto; margin-right: auto;}
+
+#gamePic{width:340px; height:500px; border-radius: 30px; border: 5px solid green;}
+#rating{width:340px; height: 120px;}
+.splitPage {width: 50%; position: absolute; z-index: 1; padding-top: 3em;}
+.gamePicInfo{left: 0; padding-left: 7em;}
+.gameSpecInfo{right: 0; padding-right: 6em; word-wrap: break-word;}
+
+#consolePic{width:500px; height:300px; border-radius: 30px; border: 5px solid green;}
